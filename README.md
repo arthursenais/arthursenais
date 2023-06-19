@@ -1,6 +1,6 @@
 ### Aluno cursando técnico em desenvolvimento de sistemas na escola SESI modelo de referência.
 - 📫 How to reach me: arthur_sa@estudante.sesisenai.org.br  
-- 📷 Insta: @arthurssa
+
 <!--
 **arthursenais/arthursenais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
